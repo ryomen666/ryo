@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Container>
       <Meta />
-
+<div>あいうえお</div>
       <Hero title="CUBE" subtitle="アウトプットしていくサイト" imageOn />
     </Container>
   )
